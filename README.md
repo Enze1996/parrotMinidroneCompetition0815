@@ -1,0 +1,2 @@
+# parrotMinidroneCompetition0815
+基于m脚本程序实现更新不同的轨迹后自主寻迹（相当于提前的预设指令飞行）
